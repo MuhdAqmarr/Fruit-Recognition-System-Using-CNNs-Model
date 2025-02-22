@@ -76,7 +76,7 @@ python train_model.py
 python gui.py
 ```
 
-\n\n**📜 License**
+**📜 License**
 This project is licensed under the MIT License, and it acknowledges the Fruit-360 dataset by Mihai Oltean & Horea Muresan.
 
 🔗 MIT License Details https://www.kaggle.com/datasets/moltean/fruits, https://github.com/fruits-360
