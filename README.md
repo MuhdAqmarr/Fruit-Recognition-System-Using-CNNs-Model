@@ -35,6 +35,10 @@ The CNN model consists of:
 
 4️⃣ Softmax Activation – Outputs class probabilities
 
+
+
+
+
 💡 The model is trained for 15 epochs with an optimized learning rate for best accuracy.
 
 
