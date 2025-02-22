@@ -45,6 +45,7 @@ The model achieves high accuracy on the test dataset.
 
 
 🚀 How to Run the Project
+
 1️⃣ Clone this repository
 git clone https://github.com/yourusername/fruit-recognition.git
 cd fruit-recognition
