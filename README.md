@@ -58,23 +58,23 @@ The model achieves high accuracy on the test dataset.
 ###🚀 How to Run the Project
 
 1️⃣ Clone this repository
-
+```
 git clone https://github.com/MuhdAqmarr/Fruit-Recognition-System-Using-CNNs-Model.git
 
 cd Fruit-Recognition-System-Using-CNNs-Model
-
+```
 2️⃣ Install dependencies
-
+```
 pip install -r requirements.txt
-
+```
 3️⃣ Run the model training
-
+```
 python train_model.py
-
+```
 4️⃣ Test the model on an image
-
+```
 python gui.py
-
+```
 
 ###📜 License
 This project is licensed under the MIT License, and it acknowledges the Fruit-360 dataset by Mihai Oltean & Horea Muresan.
