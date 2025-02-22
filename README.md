@@ -59,7 +59,7 @@ The model achieves high accuracy on the test dataset.
 
 1️⃣ Clone this repository
 
-git clone https://github.com/yourusername/fruit-recognition.git
+git clone https://github.com/yourusername/fruit-recognition.git](https://github.com/MuhdAqmarr/Fruit-Recognition-System-Using-CNNs-Model.git
 
 cd Fruit-Recognition-System-Using-CNNs-Model
 
