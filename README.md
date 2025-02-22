@@ -24,10 +24,15 @@ https://www.kaggle.com/datasets/moltean/fruits
 - Flask (if web-based UI is included)
 
 📖 Model Architecture
+
 The CNN model consists of:
+
 1️⃣ Convolutional Layers – Extract features from images
+
 2️⃣ Max Pooling Layers – Reduce spatial dimensions and computational cost
+
 3️⃣ Fully Connected (Dense) Layers – Perform final classification
+
 4️⃣ Softmax Activation – Outputs class probabilities
 
 💡 The model is trained for 15 epochs with an optimized learning rate for best accuracy.
