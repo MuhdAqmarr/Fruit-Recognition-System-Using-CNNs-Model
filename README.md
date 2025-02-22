@@ -61,7 +61,7 @@ The model achieves high accuracy on the test dataset.
 
 git clone https://github.com/yourusername/fruit-recognition.git
 
-cd fruit-recognition
+cd Fruit-Recognition-System-Using-CNNs-Model
 
 2️⃣ Install dependencies
 
