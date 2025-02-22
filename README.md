@@ -34,11 +34,13 @@ The CNN model consists of:
 
 
 📊 Results
+
 🔹 Accuracy & Loss Graphs
 ![accuracy_loss_plot](https://github.com/user-attachments/assets/49edd512-35fe-41ba-83fd-e83cc8a83246)
 
 
 📜 Classification Report
+
 The model achieves high accuracy on the test dataset.
 📌 For detailed performance metrics, check the classification_report.txt file.
 
