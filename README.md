@@ -58,21 +58,21 @@ The model achieves high accuracy on the test dataset.
 ###🚀 How to Run the Project
 
 1️⃣ Clone this repository
-```bash
-git clone https://github.com/yourusername/fruit-recognition.git](https://github.com/MuhdAqmarr/Fruit-Recognition-System-Using-CNNs-Model.git
+
+git clone https://github.com/MuhdAqmarr/Fruit-Recognition-System-Using-CNNs-Model.git
 
 cd Fruit-Recognition-System-Using-CNNs-Model
 
-###2️⃣ Install dependencies
-```bash
+2️⃣ Install dependencies
+
 pip install -r requirements.txt
 
-###3️⃣ Run the model training
-```bash
+3️⃣ Run the model training
+
 python train_model.py
 
-###4️⃣ Test the model on an image
-```bash
+4️⃣ Test the model on an image
+
 python gui.py
 
 
