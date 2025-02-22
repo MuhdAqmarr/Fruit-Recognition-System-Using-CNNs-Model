@@ -53,7 +53,7 @@ def classify_image():
 
 # Create the GUI
 root = tk.Tk()
-root.title("Group 2 - Fruit Recognition")
+root.title("Fruit Recognition Using CNN Model")
 
 # Set window size
 root.geometry("500x650")
